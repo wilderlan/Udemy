@@ -77,4 +77,11 @@ console.log(telefone_completo); // retorna '21998887655'
 =============================================================
 
 - Aula-6 Tipo de dados Booleano
+
+
+var idade = 65;
+var teste = idade !== 65;
+
+console.log(teste);
+
 */
