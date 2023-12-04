@@ -84,4 +84,26 @@ var teste = idade !== 65;
 
 console.log(teste);
 
+============================================================
+
+- Aula-7 Dados null e undefined
+
+
+var undf ;
+
+console.log(typeof undf);
+
+var nome = 'wil';
+console.log(nome[4]);
+
+var temperatura = 35;
+console.log(temperatura);
+
+temperatura = null;
+
+console.log(temperatura);
+
+console.log(typeof temperatura);
+
 */
+
