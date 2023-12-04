@@ -1,0 +1,1 @@
+console.log('O arquivo ex1.js está funcionando');
