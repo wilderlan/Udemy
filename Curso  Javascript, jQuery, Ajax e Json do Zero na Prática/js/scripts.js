@@ -1,3 +1,5 @@
-alert("Mensagem enviada pelo Alert!");
+var latitude = 40.87663;
+var longitude = -8.08373;
 
-console.log("Mensagem enviada pelo Console");
+console.log(latitude)
+console.log(longitude);
